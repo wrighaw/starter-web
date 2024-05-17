@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Anthony Wright	awright@git.training	@wrighaw 	
 
 # THANKS
 
